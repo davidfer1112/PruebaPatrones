@@ -1,0 +1,1118 @@
+2022|Los Martires|2010|25|\N|\N
+2022|Rafael Uribe Uribe|2000|29|\N|\N
+2022|Rafael Uribe Uribe|1990|56|\N|\N
+2022|Santa Fe|1945|52|\N|\N
+2022|Santa Fe|1990|62|\N|\N
+2022|Santa Fe|2015|19|\N|\N
+2022|Santa Fe|1985|55|\N|\N
+2022|Santa Fe|1980|43|\N|\N
+2022|Santa Fe|1940|40|\N|\N
+2022|Santa Fe|2020|28|\N|\N
+2022|San Cristobal|2005|70|\N|\N
+2022|San Cristobal|1995|98|\N|\N
+2022|San Cristobal|1985|79|\N|\N
+2022|Los Martires|1995|31|\N|\N
+2022|Los Martires|1990|54|\N|\N
+2022|Rafael Uribe Uribe|1935|17|\N|\N
+2022|Los Martires|1965|41|\N|\N
+2022|Suba|2000|588|\N|\N
+2022|Usaquen|2015|241|\N|\N
+2022|Usaquen|1990|297|\N|\N
+2022|Usaquen|2020|229|\N|\N
+2022|Usaquen|1935|90|\N|\N
+2022|Usaquen|1950|269|\N|\N
+2022|Usaquen|1995|272|\N|\N
+2022|Usaquen|1955|309|\N|\N
+2022|Usaquen|1965|296|\N|\N
+2022|Usaquen|2000|252|\N|\N
+2022|Usaquen|1960|350|\N|\N
+2022|Usaquen|1970|271|\N|\N
+2022|Suba|1995|684|\N|\N
+2022|Barrios Unidos|1995|97|\N|\N
+2022|Barrios Unidos|1955|170|\N|\N
+2022|Engativa|2000|221|\N|\N
+2022|Engativa|1965|467|\N|\N
+2022|Engativa|1940|259|\N|\N
+2022|Engativa|1975|277|\N|\N
+2022|Suba|2020|487|\N|\N
+2022|Suba|1970|518|\N|\N
+2022|Suba|2015|567|\N|\N
+2022|Suba|1990|679|\N|\N
+2022|Suba|1960|792|\N|\N
+2022|Suba|1980|606|\N|\N
+2022|Suba|1975|503|\N|\N
+2022|Suba|1950|593|\N|\N
+2022|Suba|1955|674|\N|\N
+2022|Suba|1985|572|\N|\N
+2022|Suba|1945|412|\N|\N
+2022|Barrios Unidos|1960|158|\N|\N
+2022|Chapinero|1980|38|\N|\N
+2022|Teusaquillo|1960|77|\N|\N
+2022|Teusaquillo|1935|27|\N|\N
+2022|Teusaquillo|1920|1|\N|\N
+2022|Teusaquillo|1940|29|\N|\N
+2022|Teusaquillo|1945|53|\N|\N
+2022|Teusaquillo|1970|43|\N|\N
+2022|Usaquen|1945|234|\N|\N
+2022|Usaquen|1980|219|\N|\N
+2022|Engativa|1945|306|\N|\N
+2022|Engativa|1950|354|\N|\N
+2022|Engativa|1930|87|\N|\N
+2022|Engativa|1960|551|\N|\N
+2022|Suba|1940|250|\N|\N
+2022|Suba|2010|321|\N|\N
+2022|Usme|1965|623|\N|\N
+2022|Ciudad Bolivar|2020|278|\N|\N
+2022|Tunjuelito|1970|136|\N|\N
+2022|Tunjuelito|1955|237|\N|\N
+2022|Tunjuelito|1945|141|\N|\N
+2022|Ciudad Bolivar|2010|182|\N|\N
+2022|Ciudad Bolivar|1990|656|\N|\N
+2022|Usme|1960|651|\N|\N
+2022|Ciudad Bolivar|1985|549|\N|\N
+2022|Ciudad Bolivar|2000|530|\N|\N
+2022|Ciudad Bolivar|1965|628|\N|\N
+2022|Ciudad Bolivar|1955|656|\N|\N
+2022|Ciudad Bolivar|1960|712|\N|\N
+2022|Ciudad Bolivar|1975|526|\N|\N
+2022|Ciudad Bolivar|1950|561|\N|\N
+2022|Tunjuelito|1965|218|\N|\N
+2022|Ciudad Bolivar|2005|208|\N|\N
+2022|Usme|1940|272|\N|\N
+2022|Usme|1985|478|\N|\N
+2022|Tunjuelito|1935|80|\N|\N
+2022|Ciudad Bolivar|1995|673|\N|\N
+2022|Usme|1975|485|\N|\N
+2022|Usme|1955|663|\N|\N
+2022|Usme|1945|401|\N|\N
+2022|Usme|1970|550|\N|\N
+2022|Ciudad Bolivar|1940|299|\N|\N
+2022|Tunjuelito|2005|32|\N|\N
+2022|Kennedy|1945|390|\N|\N
+2022|Bosa|2020|424|\N|\N
+2022|Fontibon|1935|114|\N|\N
+2022|Bosa|1950|426|\N|\N
+2022|Kennedy|2000|771|\N|\N
+2022|Kennedy|1955|719|\N|\N
+2022|Kennedy|1980|668|\N|\N
+2022|Fontibon|1955|373|\N|\N
+2022|Bosa|1940|175|\N|\N
+2022|Fontibon|1960|416|\N|\N
+2022|Fontibon|1975|267|\N|\N
+2022|Kennedy|1960|805|\N|\N
+2022|Fontibon|1970|292|\N|\N
+2022|Kennedy|2010|419|\N|\N
+2022|Fontibon|1980|248|\N|\N
+2022|Bosa|1980|422|\N|\N
+2022|Puente Aranda|2015|145|\N|\N
+2022|Fontibon|1945|268|\N|\N
+2022|Fontibon|1950|312|\N|\N
+2022|Bosa|1955|529|\N|\N
+2022|Bosa|1960|592|\N|\N
+2022|Bosa|1975|419|\N|\N
+2022|Kennedy|1965|762|\N|\N
+2022|Bosa|1985|422|\N|\N
+2022|Fontibon|1940|227|\N|\N
+2022|Kennedy|1970|697|\N|\N
+2022|Kennedy|1995|900|\N|\N
+2022|Fontibon|2000|209|\N|\N
+2022|Fontibon|1995|261|\N|\N
+2022|Kennedy|2020|722|\N|\N
+2022|Bosa|2010|261|\N|\N
+2022|Fontibon|2005|99|\N|\N
+2022|Puente Aranda|2010|100|\N|\N
+2022|Fontibon|2015|230|\N|\N
+2022|Fontibon|1990|316|\N|\N
+2022|Kennedy|1990|832|\N|\N
+2022|Bosa|1990|490|\N|\N
+2022|Fontibon|2010|135|\N|\N
+2022|Puente Aranda|2005|70|\N|\N
+2022|Bosa|1995|510|\N|\N
+2022|Bosa|2015|340|\N|\N
+2022|Fontibon|2020|236|\N|\N
+2022|Kennedy|2005|349|\N|\N
+2022|Puente Aranda|2020|129|\N|\N
+2022|Kennedy|1975|624|\N|\N
+2022|Puente Aranda|1985|27|\N|\N
+2023|Ciudad Bolivar|2010|315|\N|\N
+2023|Ciudad Bolivar|2015|478|\N|\N
+2023|Ciudad Bolivar|2020|459|\N|\N
+2023|Ciudad Bolivar|1995|1930|\N|\N
+2023|Ciudad Bolivar|1975|1603|\N|\N
+2023|Ciudad Bolivar|2000|1791|\N|\N
+2023|Tunjuelito|1960|659|\N|\N
+2023|Sumapaz|1990|60|\N|\N
+2023|Ciudad Bolivar|1955|2112|\N|\N
+2023|Tunjuelito|2020|67|\N|\N
+2023|Usme|1970|681|\N|\N
+2023|Usme|1960|958|\N|\N
+2023|Kennedy|1965|1452|\N|\N
+2023|Bosa|2020|421|\N|\N
+2023|Kennedy|2020|734|\N|\N
+2023|Bosa|2015|328|\N|\N
+2023|Bosa|2010|203|\N|\N
+2023|Fontibon|1950|480|\N|\N
+2023|Bosa|1985|730|\N|\N
+2023|Kennedy|1975|1242|\N|\N
+2023|Fontibon|1995|451|\N|\N
+2023|Fontibon|1960|694|\N|\N
+2023|Bosa|1955|881|\N|\N
+2023|Bosa|2005|441|\N|\N
+2023|Bosa|1975|636|\N|\N
+2023|Bosa|1970|868|\N|\N
+2023|Kennedy|1985|1329|\N|\N
+2023|Fontibon|1965|663|\N|\N
+2023|Fontibon|2000|359|\N|\N
+2023|Bosa|1960|991|\N|\N
+2023|Bosa|1980|709|\N|\N
+2023|Kennedy|1960|1328|\N|\N
+2023|Bosa|1990|813|\N|\N
+2023|Bosa|1995|1051|\N|\N
+2023|Kennedy|1970|1355|\N|\N
+2023|Fontibon|1980|460|\N|\N
+2023|Suba|1930|210|\N|\N
+2023|Suba|1940|704|\N|\N
+2023|Usaquen|1940|293|\N|\N
+2023|Suba|1945|1093|\N|\N
+2023|Usaquen|1945|481|\N|\N
+2023|Suba|1950|1451|\N|\N
+2023|Usaquen|1950|623|\N|\N
+2023|Suba|1955|1870|\N|\N
+2023|Usaquen|1960|708|\N|\N
+2023|Suba|1960|2070|\N|\N
+2023|Suba|1965|1811|\N|\N
+2023|Suba|1970|1556|\N|\N
+2023|Usaquen|1970|528|\N|\N
+2023|Usaquen|1975|527|\N|\N
+2023|Suba|1975|1415|\N|\N
+2023|Suba|1980|1514|\N|\N
+2023|Usaquen|1980|560|\N|\N
+2023|Suba|1985|1577|\N|\N
+2023|Suba|1990|1808|\N|\N
+2023|Teusaquillo|1990|7|\N|\N
+2023|Usaquen|1990|732|\N|\N
+2023|Suba|1995|1782|\N|\N
+2023|Usaquen|1995|822|\N|\N
+2023|Usaquen|2000|625|\N|\N
+2023|Suba|2000|1334|\N|\N
+2023|Usaquen|2005|125|\N|\N
+2023|Teusaquillo|2005|16|\N|\N
+2023|Suba|2005|409|\N|\N
+2023|Usaquen|2010|142|\N|\N
+2023|Usaquen|2015|329|\N|\N
+2023|Suba|2015|731|\N|\N
+2023|Usaquen|2020|439|\N|\N
+2023|Tunjuelito|1995|324|\N|\N
+2023|Ciudad Bolivar|1990|1999|\N|\N
+2023|Ciudad Bolivar|1985|1714|\N|\N
+2023|Ciudad Bolivar|1950|1660|\N|\N
+2023|Usme|1935|156|\N|\N
+2023|Tunjuelito|1935|141|\N|\N
+2023|Tunjuelito|1950|404|\N|\N
+2023|Tunjuelito|1980|329|\N|\N
+2023|Tunjuelito|1965|574|\N|\N
+2023|Tunjuelito|2005|70|\N|\N
+2023|Usme|2005|110|\N|\N
+2023|Puente Aranda|1930|26|\N|\N
+2023|Fontibon|1930|76|\N|\N
+2023|Kennedy|1950|863|\N|\N
+2023|Fontibon|1955|668|\N|\N
+2023|Puente Aranda|1975|92|\N|\N
+2023|Puente Aranda|1940|92|\N|\N
+2023|Kennedy|1945|620|\N|\N
+2023|Puente Aranda|1960|171|\N|\N
+2023|Puente Aranda|1935|54|\N|\N
+2023|Bosa|1965|979|\N|\N
+2023|Puente Aranda|1925|16|\N|\N
+2023|Fontibon|1985|444|\N|\N
+2023|Kennedy|1940|361|\N|\N
+2023|Fontibon|1975|440|\N|\N
+2023|Puente Aranda|1965|190|\N|\N
+2023|Kennedy|1980|1251|\N|\N
+2023|Bosa|2000|1268|\N|\N
+2023|Kennedy|1995|1612|\N|\N
+2023|Kennedy|2000|1386|\N|\N
+2023|Kennedy|2010|441|\N|\N
+2023|Fontibon|2010|142|\N|\N
+2023|Kennedy|1990|1492|\N|\N
+2023|Kennedy|1955|1156|\N|\N
+2023|Santa Fe|2015|113|\N|\N
+2023|San Cristobal|1985|471|\N|\N
+2023|San Cristobal|1980|469|\N|\N
+2023|Los Martires|1995|121|\N|\N
+2023|Rafael Uribe Uribe|1970|501|\N|\N
+2023|Kennedy|2015|721|\N|\N
+2023|Kennedy|2005|392|\N|\N
+2023|Fontibon|1970|485|\N|\N
+2023|Fontibon|2015|159|\N|\N
+2023|Fontibon|1940|264|\N|\N
+2023|Fontibon|1935|173|\N|\N
+2023|Tunjuelito|2000|299|\N|\N
+2023|Ciudad Bolivar|1980|1753|\N|\N
+2023|Ciudad Bolivar|1945|1235|\N|\N
+2023|Ciudad Bolivar|1965|2021|\N|\N
+2023|Ciudad Bolivar|1960|2110|\N|\N
+2023|Ciudad Bolivar|1930|165|\N|\N
+2023|Ciudad Bolivar|1935|402|\N|\N
+2023|Santa Fe|1960|275|\N|\N
+2023|San Cristobal|1990|473|\N|\N
+2023|La Candelaria|1990|17|\N|\N
+2023|Rafael Uribe Uribe|1980|381|\N|\N
+2023|Rafael Uribe Uribe|1950|618|\N|\N
+2023|Rafael Uribe Uribe|1960|762|\N|\N
+2023|Rafael Uribe Uribe|1985|391|\N|\N
+2023|Rafael Uribe Uribe|1995|379|\N|\N
+2023|San Cristobal|2015|388|\N|\N
+2023|La Candelaria|2020|10|\N|\N
+2023|Rafael Uribe Uribe|1975|388|\N|\N
+2023|Rafael Uribe Uribe|1955|794|\N|\N
+2023|Rafael Uribe Uribe|2005|154|\N|\N
+2023|San Cristobal|1995|556|\N|\N
+2023|San Cristobal|2020|279|\N|\N
+2023|Los Martires|1965|47|\N|\N
+2023|Los Martires|1985|76|\N|\N
+2023|San Cristobal|1950|523|\N|\N
+2023|Los Martires|2010|118|\N|\N
+2023|Los Martires|2015|224|\N|\N
+2023|San Cristobal|1970|563|\N|\N
+2023|Rafael Uribe Uribe|1990|443|\N|\N
+2023|Santa Fe|2000|143|\N|\N
+2023|Rafael Uribe Uribe|1940|313|\N|\N
+2023|Rafael Uribe Uribe|1965|574|\N|\N
+2023|Rafael Uribe Uribe|2000|282|\N|\N
+2023|Rafael Uribe Uribe|2015|242|\N|\N
+2023|San Cristobal|1975|475|\N|\N
+2023|Los Martires|2020|226|\N|\N
+2023|San Cristobal|1925|26|\N|\N
+2023|San Cristobal|1965|699|\N|\N
+2023|Rafael Uribe Uribe|1945|469|\N|\N
+2023|Antonio Nariño|1995|53|\N|\N
+2023|La Candelaria|2015|5|\N|\N
+2023|Santa Fe|2005|159|\N|\N
+2023|San Cristobal|1940|286|\N|\N
+2023|Los Martires|2005|88|\N|\N
+2023|Antonio Nariño|2010|32|\N|\N
+2023|Antonio Nariño|2015|53|\N|\N
+2023|Rafael Uribe Uribe|2020|257|\N|\N
+2023|Antonio Nariño|1985|30|\N|\N
+2023|Santa Fe|1975|165|\N|\N
+2023|La Candelaria|1985|26|\N|\N
+2023|Santa Fe|2020|95|\N|\N
+2023|San Cristobal|2000|431|\N|\N
+2023|Rafael Uribe Uribe|2010|177|\N|\N
+2023|Sumapaz|2000|39|\N|\N
+2023|Usme|1990|754|\N|\N
+2023|Usme|1985|643|\N|\N
+2023|Usme|2000|554|\N|\N
+2023|Tunjuelito|1985|311|\N|\N
+2023|Tunjuelito|1990|358|\N|\N
+2023|Usme|1940|302|\N|\N
+2023|Usme|1945|456|\N|\N
+2023|Tunjuelito|1940|231|\N|\N
+2023|Usme|1955|890|\N|\N
+2023|Ciudad Bolivar|1970|1695|\N|\N
+2023|Usme|1930|64|\N|\N
+2023|Usme|1965|780|\N|\N
+2023|Ciudad Bolivar|1940|836|\N|\N
+2023|Usme|1950|698|\N|\N
+2023|Tunjuelito|1970|431|\N|\N
+2023|Usme|1975|625|\N|\N
+2023|Usme|1980|617|\N|\N
+2023|Bosa|1940|335|\N|\N
+2023|Bosa|1950|673|\N|\N
+2023|Engativa|1965|749|\N|\N
+2023|Engativa|1995|644|\N|\N
+2023|Engativa|2000|490|\N|\N
+2023|Engativa|1980|513|\N|\N
+2023|Engativa|2005|128|\N|\N
+2023|Engativa|2015|233|\N|\N
+2023|Engativa|1975|498|\N|\N
+2023|Engativa|1960|835|\N|\N
+2023|Engativa|1970|570|\N|\N
+2023|Engativa|1950|525|\N|\N
+2023|Engativa|1935|169|\N|\N
+2023|Engativa|1945|335|\N|\N
+2023|Engativa|2020|258|\N|\N
+2023|Engativa|2010|120|\N|\N
+2023|Engativa|1955|666|\N|\N
+2023|Engativa|1985|540|\N|\N
+2023|Engativa|1990|569|\N|\N
+2023|Engativa|1940|258|\N|\N
+2023|Usaquen|1985|637|\N|\N
+2023|Usaquen|1965|606|\N|\N
+2022|Los Martires|1975|32|\N|\N
+2022|Los Martires|1950|22|\N|\N
+2022|Los Martires|1980|21|\N|\N
+2022|San Cristobal|2020|63|\N|\N
+2022|San Cristobal|2015|77|\N|\N
+\N|Rafael Uribe Uribe|1950|10|\N|\N
+2022|Rafael Uribe Uribe|1945|60|\N|\N
+2022|Rafael Uribe Uribe|1955|95|\N|\N
+\N|Rafael Uribe Uribe|1925|1|\N|\N
+\N|Rafael Uribe Uribe|1930|1|\N|\N
+\N|Rafael Uribe Uribe|1955|10|\N|\N
+\N|Rafael Uribe Uribe|1960|9|\N|\N
+\N|Rafael Uribe Uribe|1945|5|\N|\N
+\N|Rafael Uribe Uribe|1975|5|\N|\N
+\N|Rafael Uribe Uribe|1995|5|\N|\N
+2022|Rafael Uribe Uribe|1985|53|\N|\N
+2022|Rafael Uribe Uribe|1950|86|\N|\N
+\N|La Candelaria|1945|3|\N|\N
+\N|La Candelaria|1955|3|\N|\N
+\N|La Candelaria|1990|1|\N|\N
+\N|La Candelaria|1975|2|\N|\N
+\N|La Candelaria|1950|2|\N|\N
+\N|La Candelaria|1960|2|\N|\N
+\N|Rafael Uribe Uribe|1965|8|\N|\N
+\N|Rafael Uribe Uribe|1935|1|\N|\N
+2022|Rafael Uribe Uribe|1995|39|\N|\N
+2022|Rafael Uribe Uribe|1970|53|\N|\N
+2022|Rafael Uribe Uribe|1940|46|\N|\N
+2022|Rafael Uribe Uribe|1960|68|\N|\N
+\N|Rafael Uribe Uribe|2015|8|\N|\N
+\N|Rafael Uribe Uribe|1990|7|\N|\N
+2022|San Cristobal|1950|103|\N|\N
+2022|Los Martires|1955|29|\N|\N
+2022|Los Martires|1985|39|\N|\N
+2022|San Cristobal|1965|104|\N|\N
+2022|San Cristobal|1960|147|\N|\N
+2022|San Cristobal|1980|76|\N|\N
+2022|San Cristobal|1970|99|\N|\N
+2022|San Cristobal|1990|94|\N|\N
+\N|Los Martires|2000|2|\N|\N
+2022|Santa Fe|1970|52|\N|\N
+2022|Santa Fe|1955|91|\N|\N
+2022|Santa Fe|1950|73|\N|\N
+\N|San Cristobal|2000|2|\N|\N
+\N|San Cristobal|1950|2|\N|\N
+\N|Santa Fe|1960|1|\N|\N
+2022|Los Martires|1960|43|\N|\N
+\N|San Cristobal|1935|1|\N|\N
+\N|San Cristobal|1960|2|\N|\N
+2022|Los Martires|1935|9|\N|\N
+2022|Los Martires|2000|16|\N|\N
+2022|Los Martires|1930|7|\N|\N
+\N|Los Martires|1995|1|\N|\N
+2022|San Cristobal|1945|81|\N|\N
+2022|San Cristobal|1940|58|\N|\N
+2022|San Cristobal|1975|91|\N|\N
+2022|San Cristobal|2010|89|\N|\N
+2022|Los Martires|2005|19|\N|\N
+2022|San Cristobal|2000|75|\N|\N
+2022|La Candelaria|1975|6|\N|\N
+2022|Los Martires|2020|25|\N|\N
+2022|Los Martires|2015|24|\N|\N
+2022|La Candelaria|1935|3|\N|\N
+2022|La Candelaria|1965|8|\N|\N
+2022|Santa Fe|1965|79|\N|\N
+2022|Santa Fe|2005|14|\N|\N
+2022|Los Martires|1970|23|\N|\N
+2022|Rafael Uribe Uribe|2015|36|\N|\N
+2022|San Cristobal|1925|2|\N|\N
+2022|Rafael Uribe Uribe|2020|31|\N|\N
+2022|Santa Fe|1995|43|\N|\N
+2022|Rafael Uribe Uribe|2005|16|\N|\N
+2022|Kennedy|1940|254|\N|\N
+2022|Kennedy|1935|155|\N|\N
+2022|Bosa|1970|466|\N|\N
+2022|Bosa|1965|531|\N|\N
+2022|Fontibon|1965|355|\N|\N
+2022|Kennedy|2015|640|\N|\N
+2022|Bosa|2000|458|\N|\N
+2022|Puente Aranda|1970|21|\N|\N
+2022|Bosa|2005|223|\N|\N
+2023|Fontibon|2005|115|\N|\N
+2023|Bosa|1930|90|\N|\N
+2022|Barrios Unidos|1930|24|\N|\N
+2022|Fontibon|1930|50|\N|\N
+2022|Bosa|1935|126|\N|\N
+2022|Kennedy|1950|552|\N|\N
+2022|Fontibon|1985|257|\N|\N
+2023|Kennedy|1935|233|\N|\N
+2023|Fontibon|1925|31|\N|\N
+2023|Fontibon|1945|374|\N|\N
+2022|Engativa|1935|180|\N|\N
+2022|Suba|1965|727|\N|\N
+2022|Suba|1935|140|\N|\N
+2022|Usme|1950|503|\N|\N
+2022|Usme|1990|582|\N|\N
+2022|Usme|1980|519|\N|\N
+2023|Los Martires|1990|88|\N|\N
+2023|Usaquen|1955|689|\N|\N
+2022|Suba|1930|78|\N|\N
+2022|Ciudad Bolivar|1970|568|\N|\N
+2023|Tunjuelito|1955|554|\N|\N
+2023|Puente Aranda|1945|124|\N|\N
+2023|Usaquen|1930|62|\N|\N
+2022|Tunjuelito|1975|150|\N|\N
+2022|Kennedy|1985|696|\N|\N
+2023|Tunjuelito|1975|377|\N|\N
+2023|Usme|1995|714|\N|\N
+2022|Usaquen|1975|237|\N|\N
+2022|Chapinero|1975|26|\N|\N
+2022|Barrios Unidos|1980|111|\N|\N
+2022|Barrios Unidos|1935|49|\N|\N
+2022|Usaquen|1940|148|\N|\N
+2022|Usaquen|1930|49|\N|\N
+2022|Ciudad Bolivar|1935|153|\N|\N
+2022|Tunjuelito|1960|251|\N|\N
+2022|Usme|1935|138|\N|\N
+2022|Ciudad Bolivar|1930|74|\N|\N
+2022|Tunjuelito|1950|194|\N|\N
+2023|Suba|1925|51|\N|\N
+2023|Suba|1935|421|\N|\N
+2023|Chapinero|1950|7|\N|\N
+2023|Tunjuelito|1945|325|\N|\N
+2023|La Candelaria|1970|25|\N|\N
+2023|Bosa|1935|212|\N|\N
+2023|Puente Aranda|1970|119|\N|\N
+2023|San Cristobal|1960|755|\N|\N
+2023|Santa Fe|1980|151|\N|\N
+2023|Santa Fe|1935|110|\N|\N
+2023|La Candelaria|1965|30|\N|\N
+2023|Antonio Nariño|2020|24|\N|\N
+2023|Sumapaz|1995|47|\N|\N
+2023|Sumapaz|1955|28|\N|\N
+2023|Sumapaz|1960|33|\N|\N
+2023|Usaquen|1935|171|\N|\N
+2023|Usaquen|1925|23|\N|\N
+2022|Tunjuelito|1990|118|\N|\N
+2023|Usme|2015|132|\N|\N
+2023|Suba|2020|774|\N|\N
+2023|Ciudad Bolivar|2005|381|\N|\N
+2023|Fontibon|2020|182|\N|\N
+2022|Kennedy|1925|18|\N|\N
+2022|Bosa|1945|326|\N|\N
+2022|Puente Aranda|1955|32|\N|\N
+2022|Puente Aranda|1990|32|\N|\N
+2023|Puente Aranda|2000|69|\N|\N
+2023|Fontibon|1990|493|\N|\N
+2023|Puente Aranda|1955|153|\N|\N
+2023|San Cristobal|1955|627|\N|\N
+2022|Rafael Uribe Uribe|1980|59|\N|\N
+2022|Santa Fe|1975|71|\N|\N
+2022|Antonio Nariño|1955|5|\N|\N
+2022|Usaquen|1985|245|\N|\N
+2022|Usaquen|2005|68|\N|\N
+2022|Chapinero|1950|39|\N|\N
+2022|Barrios Unidos|1950|131|\N|\N
+2022|Barrios Unidos|1985|122|\N|\N
+2022|Chapinero|1985|45|\N|\N
+2022|Barrios Unidos|1970|134|\N|\N
+2022|Barrios Unidos|1965|149|\N|\N
+2022|Barrios Unidos|2000|79|\N|\N
+2022|Engativa|1955|450|\N|\N
+2022|Engativa|1995|241|\N|\N
+2022|Engativa|1970|312|\N|\N
+2022|Engativa|1985|247|\N|\N
+2022|Engativa|1990|252|\N|\N
+2022|Suba|2005|213|\N|\N
+2022|Barrios Unidos|1945|97|\N|\N
+2022|Teusaquillo|2000|69|\N|\N
+2022|Teusaquillo|1950|62|\N|\N
+2022|Usaquen|2010|83|\N|\N
+2022|Engativa|2010|78|\N|\N
+2022|Engativa|2015|174|\N|\N
+2022|Engativa|1980|263|\N|\N
+2022|Engativa|2020|136|\N|\N
+2022|Engativa|2005|73|\N|\N
+2022|Barrios Unidos|1990|103|\N|\N
+2022|Usme|2000|446|\N|\N
+2022|Usme|1995|575|\N|\N
+2022|Ciudad Bolivar|1945|448|\N|\N
+2022|Ciudad Bolivar|1980|574|\N|\N
+2022|Tunjuelito|1930|39|\N|\N
+2022|Tunjuelito|1995|105|\N|\N
+2022|Tunjuelito|1980|106|\N|\N
+2022|Tunjuelito|2000|101|\N|\N
+2022|Sumapaz|1970|26|\N|\N
+2022|Sumapaz|1960|29|\N|\N
+2022|Sumapaz|1945|5|\N|\N
+2022|Sumapaz|1965|23|\N|\N
+2022|Sumapaz|1990|57|\N|\N
+2022|Sumapaz|1985|47|\N|\N
+2022|Sumapaz|1975|38|\N|\N
+2022|Usme|1930|60|\N|\N
+2022|Sumapaz|1980|42|\N|\N
+2022|Tunjuelito|1985|110|\N|\N
+2023|Sumapaz|1980|48|\N|\N
+2023|Sumapaz|1940|12|\N|\N
+2023|Teusaquillo|1955|32|\N|\N
+2023|Teusaquillo|1970|6|\N|\N
+2023|Suba|2010|408|\N|\N
+2023|Tunjuelito|1930|82|\N|\N
+2023|Sumapaz|1945|18|\N|\N
+2023|Bosa|1945|439|\N|\N
+2023|Puente Aranda|1950|111|\N|\N
+2023|Kennedy|1930|108|\N|\N
+2023|Kennedy|1925|22|\N|\N
+2023|Puente Aranda|2005|13|\N|\N
+2023|Puente Aranda|1980|92|\N|\N
+2023|Antonio Nariño|1940|21|\N|\N
+2023|Puente Aranda|1990|85|\N|\N
+2023|La Candelaria|1955|34|\N|\N
+2023|Los Martires|1975|51|\N|\N
+2023|Antonio Nariño|1970|53|\N|\N
+2023|Rafael Uribe Uribe|1935|176|\N|\N
+2023|Los Martires|2000|131|\N|\N
+2023|Antonio Nariño|1945|30|\N|\N
+2023|Ciudad Bolivar|1925|43|\N|\N
+2023|Sumapaz|1975|45|\N|\N
+2023|Sumapaz|1970|42|\N|\N
+2023|Usme|2010|102|\N|\N
+2022|Barrios Unidos|2020|36|\N|\N
+2022|Barrios Unidos|2015|39|\N|\N
+2022|Chapinero|2020|23|\N|\N
+2022|Usme|2015|131|\N|\N
+2022|Usme|2020|115|\N|\N
+2022|Ciudad Bolivar|2015|302|\N|\N
+2023|Usme|2020|103|\N|\N
+2023|Puente Aranda|2020|29|\N|\N
+2023|Tunjuelito|2015|68|\N|\N
+2023|Sumapaz|2020|21|\N|\N
+2022|Tunjuelito|2015|23|\N|\N
+2022|Sumapaz|2015|19|\N|\N
+2022|Tunjuelito|2010|24|\N|\N
+2023|San Cristobal|2010|299|\N|\N
+2022|Barrios Unidos|2010|19|\N|\N
+2022|Usme|2010|83|\N|\N
+2022|Usme|2005|121|\N|\N
+2022|Sumapaz|2010|31|\N|\N
+2023|Sumapaz|2005|55|\N|\N
+2023|Tunjuelito|2010|33|\N|\N
+2022|Santa Fe|2000|39|\N|\N
+2022|Tunjuelito|2020|23|\N|\N
+2023|Los Martires|1980|85|\N|\N
+2022|Engativa|1925|22|\N|\N
+2022|Tunjuelito|1940|113|\N|\N
+2022|Sumapaz|1995|45|\N|\N
+2022|Sumapaz|2000|56|\N|\N
+2022|Chapinero|1995|57|\N|\N
+2022|Barrios Unidos|1975|98|\N|\N
+2022|Teusaquillo|1990|43|\N|\N
+2022|Teusaquillo|1995|59|\N|\N
+2022|Teusaquillo|1980|41|\N|\N
+2022|Teusaquillo|1985|33|\N|\N
+2022|Teusaquillo|1975|35|\N|\N
+2022|Teusaquillo|1930|7|\N|\N
+2022|Teusaquillo|1965|46|\N|\N
+2022|Puente Aranda|1975|22|\N|\N
+2022|Puente Aranda|1945|24|\N|\N
+2023|Puente Aranda|1985|92|\N|\N
+2023|Chapinero|1955|10|\N|\N
+2023|Chapinero|1960|4|\N|\N
+2023|Teusaquillo|2020|9|\N|\N
+2023|Kennedy|\N|4|\N|\N
+2022|Chapinero|1990|49|\N|\N
+2023|Chapinero|1980|11|\N|\N
+2023|Engativa|1930|74|\N|\N
+2023|Suba|0|4|46171|0.0087
+2023|Santa Fe|1950|248|\N|\N
+2023|San Cristobal|1945|386|\N|\N
+2023|Los Martires|1945|29|\N|\N
+2022|Sumapaz|1940|7|\N|\N
+2023|Antonio Nariño|1955|58|\N|\N
+2023|Los Martires|1940|12|\N|\N
+2023|Los Martires|1960|67|\N|\N
+2023|Antonio Nariño|1975|38|\N|\N
+2023|San Cristobal|2005|292|\N|\N
+2023|Santa Fe|1965|224|\N|\N
+2023|Santa Fe|1955|301|\N|\N
+2023|Santa Fe|1990|178|\N|\N
+2023|Santa Fe|1995|146|\N|\N
+2023|Los Martires|1955|61|\N|\N
+2023|Los Martires|1950|49|\N|\N
+2023|Barrios Unidos|1945|14|\N|\N
+2023|Barrios Unidos|1975|15|\N|\N
+2023|Usaquen|\N|8|\N|\N
+2022|Usaquen|1920|5|\N|\N
+2022|Engativa|1920|5|\N|\N
+2022|Fontibon|1925|14|\N|\N
+2023|Rafael Uribe Uribe|1930|88|\N|\N
+2023|Antonio Nariño|1965|45|\N|\N
+2023|Rafael Uribe Uribe|1925|37|\N|\N
+\N|Rafael Uribe Uribe|2020|6|\N|\N
+\N|Rafael Uribe Uribe|2000|3|\N|\N
+\N|Rafael Uribe Uribe|1980|11|\N|\N
+2022|San Cristobal|1955|128|\N|\N
+2022|Chapinero|1955|46|\N|\N
+2023|Engativa|1925|15|\N|\N
+2022|Rafael Uribe Uribe|1965|65|\N|\N
+2022|Barrios Unidos|1940|79|\N|\N
+2022|Usaquen|1925|13|\N|\N
+2023|Sumapaz|1985|51|\N|\N
+2023|La Candelaria|1930|12|\N|\N
+2023|Ciudad Bolivar|1915|4|\N|\N
+2022|Sumapaz|2005|30|\N|\N
+2022|Chapinero|2010|16|\N|\N
+2022|Teusaquillo|1955|72|\N|\N
+2022|Kennedy|1920|8|\N|\N
+2022|Puente Aranda|1960|31|\N|\N
+2023|Santa Fe|1970|180|\N|\N
+2023|Antonio Nariño|1935|22|\N|\N
+2023|Santa Fe|2010|73|\N|\N
+2023|San Cristobal|1930|76|\N|\N
+2023|Suba|\N|34|\N|\N
+2023|Teusaquillo|1950|17|\N|\N
+2023|Chapinero|1990|23|\N|\N
+2023|Chapinero|\N|3|\N|\N
+2023|Barrios Unidos|1935|15|\N|\N
+2023|Barrios Unidos|1955|24|\N|\N
+2023|Barrios Unidos|1995|27|\N|\N
+2023|Teusaquillo|1960|18|\N|\N
+2023|Teusaquillo|1935|9|\N|\N
+2023|Chapinero|1940|5|\N|\N
+2023|Teusaquillo|1945|4|\N|\N
+2023|Teusaquillo|1930|4|\N|\N
+2023|Chapinero|1970|10|\N|\N
+2023|Barrios Unidos|\N|6|\N|\N
+2023|Barrios Unidos|1985|14|\N|\N
+2023|Barrios Unidos|2000|19|\N|\N
+2023|Chapinero|2000|19|\N|\N
+2023|Chapinero|1995|20|\N|\N
+2023|Chapinero|2020|1|\N|\N
+2023|Chapinero|1975|15|\N|\N
+2023|Chapinero|1965|13|\N|\N
+2023|Engativa|1920|7|\N|\N
+2023|Barrios Unidos|1970|15|\N|\N
+2023|Chapinero|1930|2|\N|\N
+2023|Barrios Unidos|1990|23|\N|\N
+2023|Barrios Unidos|1960|22|\N|\N
+2023|Chapinero|2015|8|\N|\N
+2023|Teusaquillo|1940|8|\N|\N
+2023|Teusaquillo|1925|3|\N|\N
+2023|Teusaquillo|1965|3|\N|\N
+2023|Barrios Unidos|1950|18|\N|\N
+2023|Teusaquillo|2010|1|\N|\N
+2023|La Candelaria|1995|21|\N|\N
+2023|Santa Fe|1985|123|\N|\N
+2022|La Candelaria|1945|15|\N|\N
+2022|La Candelaria|1960|10|\N|\N
+2022|Santa Fe|2010|20|\N|\N
+2022|La Candelaria|1985|4|\N|\N
+2023|Bosa|1925|25|\N|\N
+2023|Antonio Nariño|1960|70|\N|\N
+2023|San Cristobal|1935|135|\N|\N
+2023|Antonio Nariño|2005|26|\N|\N
+2022|Barrios Unidos|2005|29|\N|\N
+2023|La Candelaria|1960|47|\N|\N
+2023|Los Martires|1970|43|\N|\N
+2022|Sumapaz|1955|17|\N|\N
+2022|Sumapaz|2020|17|\N|\N
+2022|Chapinero|1960|45|\N|\N
+2022|Chapinero|1935|6|\N|\N
+2022|Chapinero|1945|26|\N|\N
+2022|Kennedy|1930|57|\N|\N
+2023|Sumapaz|2015|38|\N|\N
+2023|Puente Aranda|2015|31|\N|\N
+2023|Puente Aranda|2010|21|\N|\N
+2023|Puente Aranda|1995|92|\N|\N
+2023|Santa Fe|1945|193|\N|\N
+\N|San Cristobal|1980|1|\N|\N
+\N|Rafael Uribe Uribe|1970|6|\N|\N
+\N|Rafael Uribe Uribe|2010|4|\N|\N
+2022|Rafael Uribe Uribe|1975|44|\N|\N
+\N|Rafael Uribe Uribe|2005|2|\N|\N
+\N|Rafael Uribe Uribe|1985|9|\N|\N
+2022|Rafael Uribe Uribe|2010|22|\N|\N
+2022|La Candelaria|1955|11|\N|\N
+2022|Antonio Nariño|1960|2|\N|\N
+2022|Puente Aranda|1980|25|\N|\N
+2022|Bosa|1930|50|\N|\N
+2022|Puente Aranda|1995|31|\N|\N
+2022|Puente Aranda|2000|29|\N|\N
+2023|Kennedy|1920|9|\N|\N
+2022|San Cristobal|1935|32|\N|\N
+2022|Chapinero|2000|31|\N|\N
+2022|Chapinero|1965|39|\N|\N
+2022|Chapinero|1970|32|\N|\N
+2022|Chapinero|1940|14|\N|\N
+2023|Tunjuelito|1920|5|\N|\N
+2023|Santa Fe|1940|141|\N|\N
+2023|La Candelaria|1980|13|\N|\N
+2023|Sumapaz|1965|39|\N|\N
+2023|Antonio Nariño|2000|26|\N|\N
+2022|Chapinero|2015|31|\N|\N
+2023|Sumapaz|2010|39|\N|\N
+2022|Ciudad Bolivar|1925|24|\N|\N
+2022|Puente Aranda|1950|33|\N|\N
+2022|Fontibon|\N|1|\N|\N
+2023|La Candelaria|2000|13|\N|\N
+2023|La Candelaria|1975|16|\N|\N
+2023|Antonio Nariño|1990|53|\N|\N
+2023|Antonio Nariño|1950|43|\N|\N
+2023|La Candelaria|1950|33|\N|\N
+2023|La Candelaria|1935|10|\N|\N
+2023|Antonio Nariño|1925|4|\N|\N
+2022|Usme|1925|10|\N|\N
+2023|Usaquen|1920|1|\N|\N
+\N|San Cristobal|2020|1|\N|\N
+2022|La Candelaria|1990|2|\N|\N
+2022|La Candelaria|2020|4|\N|\N
+2022|Santa Fe|1960|71|\N|\N
+2022|Chapinero|2005|12|\N|\N
+2023|Teusaquillo|2000|3|\N|\N
+2023|Chapinero|1985|13|\N|\N
+2022|Bosa|1925|13|\N|\N
+2022|Puente Aranda|1965|26|\N|\N
+2023|Bosa|1915|2|\N|\N
+2022|Barrios Unidos|1925|11|\N|\N
+2022|Chapinero|1930|6|\N|\N
+2022|Engativa|1915|1|\N|\N
+2023|Tunjuelito|1925|21|\N|\N
+2023|Antonio Nariño|1980|30|\N|\N
+2023|Usaquen|1905|1|\N|\N
+2022|Teusaquillo|2020|5|\N|\N
+2023|Los Martires|1935|10|\N|\N
+2022|Teusaquillo|2010|2|\N|\N
+2023|La Candelaria|2005|4|\N|\N
+2023|Barrios Unidos|2020|21|\N|\N
+2023|Barrios Unidos|2005|22|\N|\N
+2023|Chapinero|2005|5|\N|\N
+2023|Engativa|\N|2|\N|\N
+2022|Teusaquillo|2005|2|\N|\N
+2022|Suba|1925|17|\N|\N
+2023|Teusaquillo|1975|5|\N|\N
+2023|Santa Fe|1930|35|\N|\N
+2023|La Candelaria|1940|15|\N|\N
+\N|Los Martires|1945|3|\N|\N
+\N|Los Martires|1985|1|\N|\N
+2022|Santa Fe|1935|18|\N|\N
+2022|Los Martires|1940|9|\N|\N
+2022|Santa Fe|1930|11|\N|\N
+2022|Puente Aranda|1935|12|\N|\N
+2023|Usme|1925|12|\N|\N
+2022|Puente Aranda|1940|11|\N|\N
+2022|Los Martires|1945|12|\N|\N
+2022|Barrios Unidos|1920|1|\N|\N
+2023|Sumapaz|1950|22|\N|\N
+2023|La Candelaria|1945|20|\N|\N
+2022|Suba|\N|2|\N|\N
+2022|Teusaquillo|1925|7|\N|\N
+2023|Teusaquillo|1985|3|\N|\N
+2023|La Candelaria|2010|4|\N|\N
+2023|Antonio Nariño|1930|7|\N|\N
+2022|Sumapaz|1935|1|\N|\N
+2022|Sumapaz|1950|9|\N|\N
+2023|Chapinero|1945|9|\N|\N
+2023|Barrios Unidos|1980|9|\N|\N
+2023|Sumapaz|1935|6|\N|\N
+2023|Sumapaz|1930|4|\N|\N
+2023|Ciudad Bolivar|1920|5|\N|\N
+2023|Tunjuelito|1915|2|\N|\N
+\N|Los Martires|1955|3|\N|\N
+2022|La Candelaria|1970|1|\N|\N
+2022|Fontibon|1920|5|\N|\N
+2022|Teusaquillo|2015|2|\N|\N
+2023|Usaquen|0|2|46171|0.0043
+2022|La Candelaria|1950|6|\N|\N
+2022|La Candelaria|1940|4|\N|\N
+\N|Los Martires|1950|1|\N|\N
+\N|Los Martires|1960|3|\N|\N
+\N|Los Martires|1940|1|\N|\N
+\N|Los Martires|1970|2|\N|\N
+2023|Usme|1910|1|\N|\N
+2022|Usme|1920|1|\N|\N
+2023|Bosa|2035|1|\N|\N
+2023|Santa Fe|1925|10|\N|\N
+2023|Rafael Uribe Uribe|1915|3|\N|\N
+\N|Rafael Uribe Uribe|1940|2|\N|\N
+2023|Bosa|\N|4|\N|\N
+2023|Los Martires|1925|5|\N|\N
+2023|San Cristobal|1915|3|\N|\N
+2023|Rafael Uribe Uribe|1920|2|\N|\N
+2023|Los Martires|1930|5|\N|\N
+2023|Chapinero|1925|1|\N|\N
+2023|Barrios Unidos|1965|16|\N|\N
+2022|Fontibon|1915|1|\N|\N
+2023|Teusaquillo|1995|3|\N|\N
+2022|San Cristobal|1930|12|\N|\N
+2022|La Candelaria|1930|1|\N|\N
+2022|La Candelaria|1995|2|\N|\N
+2022|Tunjuelito|1925|11|\N|\N
+2023|Suba|1920|6|\N|\N
+2022|Chapinero|1925|2|\N|\N
+2022|Tunjuelito|1920|2|\N|\N
+2023|Barrios Unidos|1930|4|\N|\N
+2023|Barrios Unidos|1940|13|\N|\N
+2022|Ciudad Bolivar|1920|4|\N|\N
+2023|Bosa|2045|1|\N|\N
+2023|Kennedy|0|4|46171|0.0087
+2023|Chapinero|1935|3|\N|\N
+2023|Teusaquillo|1980|1|\N|\N
+2023|Chapinero|2010|2|\N|\N
+2023|Teusaquillo|2015|1|\N|\N
+2023|Bosa|0|2|46171|0.0043
+2023|Engativa|0|1|46171|0.0022
+2022|Rafael Uribe Uribe|1930|10|\N|\N
+2022|La Candelaria|2000|4|\N|\N
+2022|Antonio Nariño|1950|6|\N|\N
+2022|Santa Fe|1920|1|\N|\N
+\N|Santa Fe|1980|1|\N|\N
+2022|Suba|1920|2|\N|\N
+2022|Ciudad Bolivar|1915|2|\N|\N
+2022|Bosa|1920|3|\N|\N
+2023|Kennedy|1910|1|\N|\N
+2023|Bosa|1920|7|\N|\N
+2023|Santa Fe|1920|2|\N|\N
+2023|Los Martires|1920|1|\N|\N
+\N|Santa Fe|1995|1|\N|\N
+\N|San Cristobal|1955|1|\N|\N
+\N|San Cristobal|1985|1|\N|\N
+\N|San Cristobal|2005|2|\N|\N
+2022|Antonio Nariño|1970|2|\N|\N
+2022|Antonio Nariño|1930|2|\N|\N
+2022|Los Martires|1925|1|\N|\N
+2022|Antonio Nariño|1940|1|\N|\N
+2022|Antonio Nariño|1995|2|\N|\N
+2022|Antonio Nariño|2020|2|\N|\N
+2022|Antonio Nariño|1985|1|\N|\N
+2022|Antonio Nariño|1935|1|\N|\N
+2022|La Candelaria|2010|1|\N|\N
+2022|Antonio Nariño|1965|2|\N|\N
+2022|Antonio Nariño|1925|1|\N|\N
+2022|Tunjuelito|1915|1|\N|\N
+2023|San Cristobal|1920|2|\N|\N
+2023|Barrios Unidos|1920|1|\N|\N
+2022|Puente Aranda|1930|2|\N|\N
+2022|Puente Aranda|1925|2|\N|\N
+2022|Rafael Uribe Uribe|1925|3|\N|\N
+\N|San Cristobal|1975|1|\N|\N
+2022|Antonio Nariño|1975|1|\N|\N
+2022|Usme|1910|1|\N|\N
+2022|Puente Aranda|1920|1|\N|\N
+2023|Usme|1920|2|\N|\N
+2023|Fontibon|1920|2|\N|\N
+2023|Bosa|1910|1|\N|\N
+2023|Barrios Unidos|1925|7|\N|\N
+2022|La Candelaria|1980|1|\N|\N
+2023|BARRIOS UNIDOS|2010|7|\N|\N
+2024|SUBA|2020|333|\N|\N
+2024|ENGATIVA|2020|222|\N|\N
+2024|USAQUEN|2020|101|\N|\N
+2024|TEUSAQUILLO|2020|19|\N|\N
+2024|SUBA|1945|216|\N|\N
+2024|SUBA|1960|490|\N|\N
+2024|SUBA|1955|437|\N|\N
+2024|SUBA|1950|315|\N|\N
+2024|SUBA|1940|139|\N|\N
+2024|SUBA|1930|40|\N|\N
+2024|SUBA|1935|73|\N|\N
+2024|USAQUEN|1950|125|\N|\N
+2024|USAQUEN|1960|173|\N|\N
+2024|USAQUEN|1940|57|\N|\N
+2024|ENGATIVA|1940|175|\N|\N
+2024|ENGATIVA|1960|498|\N|\N
+2024|ENGATIVA|1945|248|\N|\N
+2024|ENGATIVA|1930|40|\N|\N
+2024|ENGATIVA|1950|311|\N|\N
+2024|ENGATIVA|1955|426|\N|\N
+2024|ENGATIVA|1935|109|\N|\N
+2024|ENGATIVA|1925|13|\N|\N
+2024|SUBA|1925|10|\N|\N
+2024|USAQUEN|1935|28|\N|\N
+2024|USAQUEN|1945|73|\N|\N
+2024|USAQUEN|1925|4|\N|\N
+2024|USAQUEN|1955|135|\N|\N
+2024|USAQUEN|1930|12|\N|\N
+2024|CHAPINERO|1935|9|\N|\N
+2024|CHAPINERO|1950|17|\N|\N
+2024|CHAPINERO|1940|16|\N|\N
+2024|CHAPINERO|1945|23|\N|\N
+2024|CHAPINERO|1955|18|\N|\N
+2024|CHAPINERO|1960|24|\N|\N
+2024|USAQUEN|1920|1|\N|\N
+2024|BARRIOS UNIDOS|1955|8|\N|\N
+2024|BARRIOS UNIDOS|1950|3|\N|\N
+2024|BARRIOS UNIDOS|1920|1|\N|\N
+2024|BARRIOS UNIDOS|1945|5|\N|\N
+2024|TEUSAQUILLO|1960|1|\N|\N
+2024|SUBA|2010|363|\N|\N
+2024|ENGATIVA|2010|218|\N|\N
+2024|ENGATIVA|2015|263|\N|\N
+2024|SUBA|2015|459|\N|\N
+2024|USAQUEN|2010|92|\N|\N
+2024|USAQUEN|2015|109|\N|\N
+2024|TEUSAQUILLO|2015|11|\N|\N
+2024|CHAPINERO|2015|12|\N|\N
+2024|TEUSAQUILLO|2010|3|\N|\N
+2024|BOSA|2010|2|\N|\N
+2024|SUBA|2005|340|\N|\N
+2024|USAQUEN|2005|84|\N|\N
+2024|ENGATIVA|2005|218|\N|\N
+2024|CHAPINERO|2005|17|\N|\N
+2024|BOSA|2005|32|\N|\N
+2024|KENNEDY|2005|59|\N|\N
+2024|SANTA FE|2005|9|\N|\N
+2024|SAN CRISTOBAL|2005|13|\N|\N
+2024|CIUDAD BOLIVAR|2005|14|\N|\N
+2024|SUBA|1980|368|\N|\N
+2024|SUBA|1975|384|\N|\N
+2024|ENGATIVA|1975|313|\N|\N
+2024|SUBA|1970|395|\N|\N
+2024|SUBA|1990|477|\N|\N
+2024|SUBA|1965|371|\N|\N
+2024|SUBA|1985|381|\N|\N
+2024|USAQUEN|1990|144|\N|\N
+2024|USAQUEN|1980|129|\N|\N
+2024|USAQUEN|1975|153|\N|\N
+2024|USAQUEN|1970|143|\N|\N
+2024|USAQUEN|1985|138|\N|\N
+2024|USAQUEN|1965|147|\N|\N
+2024|ENGATIVA|1965|440|\N|\N
+2024|ENGATIVA|1990|358|\N|\N
+2024|ENGATIVA|1980|312|\N|\N
+2024|ENGATIVA|1985|352|\N|\N
+2024|ENGATIVA|1970|355|\N|\N
+2024|SUBA|1995|495|\N|\N
+2024|ENGATIVA|1995|345|\N|\N
+2024|USAQUEN|1995|159|\N|\N
+2024|CHAPINERO|1970|23|\N|\N
+2024|CHAPINERO|1990|24|\N|\N
+2024|BARRIOS UNIDOS|1985|6|\N|\N
+2024|BARRIOS UNIDOS|1990|7|\N|\N
+2024|CHAPINERO|1985|27|\N|\N
+2024|BOSA|1980|4|\N|\N
+2024|BOSA|1985|22|\N|\N
+2024|BOSA|1990|56|\N|\N
+2024|KENNEDY|1990|32|\N|\N
+2024|KENNEDY|1995|100|\N|\N
+2024|KENNEDY|1980|6|\N|\N
+2024|KENNEDY|1985|17|\N|\N
+2024|BOSA|1995|77|\N|\N
+2024|FONTIBON|1990|8|\N|\N
+2024|KENNEDY|1975|2|\N|\N
+2024|RAFAEL URIBE URIBE|1985|4|\N|\N
+2024|SANTA FE|1985|6|\N|\N
+2024|SANTA FE|1990|14|\N|\N
+2024|RAFAEL URIBE URIBE|1990|8|\N|\N
+2024|SAN CRISTOBAL|1990|5|\N|\N
+2024|SAN CRISTOBAL|1985|5|\N|\N
+2024|CHAPINERO|1965|22|\N|\N
+2024|CHAPINERO|1975|24|\N|\N
+2024|BARRIOS UNIDOS|1980|6|\N|\N
+2024|BARRIOS UNIDOS|1970|7|\N|\N
+2024|CIUDAD BOLIVAR|1980|8|\N|\N
+2024|USME|1990|30|\N|\N
+2024|CIUDAD BOLIVAR|1990|26|\N|\N
+2024|USME|1985|14|\N|\N
+2024|USME|1995|37|\N|\N
+2024|TUNJUELITO|1985|3|\N|\N
+2024|CIUDAD BOLIVAR|1985|15|\N|\N
+2024|SUMAPAZ|1990|3|\N|\N
+2024|SUBA|2000|455|\N|\N
+2024|ENGATIVA|2000|343|\N|\N
+2024|USAQUEN|2000|141|\N|\N
+2024|CHAPINERO|2000|19|\N|\N
+2024|CHAPINERO|1995|27|\N|\N
+2024|BARRIOS UNIDOS|2000|11|\N|\N
+2024|BARRIOS UNIDOS|1995|11|\N|\N
+2024|USME|2000|59|\N|\N
+2024|BOSA|2000|96|\N|\N
+2024|KENNEDY|2000|133|\N|\N
+2024|FONTIBON|1995|5|\N|\N
+2024|SAN CRISTOBAL|1995|21|\N|\N
+2024|LOS MARTIRES|2000|27|\N|\N
+2024|LOS MARTIRES|2005|10|\N|\N
+2024|SANTA FE|2000|22|\N|\N
+2024|SAN CRISTOBAL|2000|16|\N|\N
+2024|RAFAEL URIBE URIBE|2000|28|\N|\N
+2024|RAFAEL URIBE URIBE|1995|22|\N|\N
+2024|BARRIOS UNIDOS|2005|5|\N|\N
+2024|CIUDAD BOLIVAR|1995|39|\N|\N
+2024|CIUDAD BOLIVAR|2000|47|\N|\N
+2024|TUNJUELITO|2000|5|\N|\N
+2024|SUMAPAZ|1995|5|\N|\N
+2024|TUNJUELITO|2005|2|\N|\N
+2024|CHAPINERO|2020|9|\N|\N
+2024|BARRIOS UNIDOS|2015|6|\N|\N
+2023|Candelaria|2000|11|\N|\N
+2024|USME|2005|16|\N|\N
+2024|TUNJUELITO|1990|3|\N|\N
+2024|FONTIBON|2005|5|\N|\N
+2024|FONTIBON|2000|6|\N|\N
+2024|LOS MARTIRES|1990|9|\N|\N
+2024|ANTONIO NARIÑO|1995|2|\N|\N
+2024|SANTA FE|1995|12|\N|\N
+2024|RAFAEL URIBE URIBE|2005|7|\N|\N
+2024|USME|1975|4|\N|\N
+2024|SAN CRISTOBAL|1975|1|\N|\N
+2024|LOS MARTIRES|1985|3|\N|\N
+2024|LOS MARTIRES|1995|8|\N|\N
+2024|LOS MARTIRES|1980|2|\N|\N
+2024|SUMAPAZ|1985|3|\N|\N
+2024|USME|1980|4|\N|\N
+2024|CIUDAD BOLIVAR|2010|2|\N|\N
+2024|SUMAPAZ|1975|2|\N|\N
+2024|SUMAPAZ|2000|2|\N|\N
+2024|SANTA FE|1980|1|\N|\N
+2024|TUNJUELITO|1995|3|\N|\N
+2024|PUENTE ARANDA|1995|1|\N|\N
+2024|ANTONIO NARIÑO|2000|1|\N|\N
+2024|CIUDAD BOLIVAR|1970|1|\N|\N
+2024|CIUDAD BOLIVAR|1975|2|\N|\N
+2024|SUMAPAZ|2005|1|\N|\N
+2024|CANDELARIA|1995|1|\N|\N
+2024|CANDELARIA|2005|1|\N|\N
+2024|USME|2010|2|\N|\N
+2024|SUMAPAZ|1980|1|\N|\N
+2024|PUENTE ARANDA|1990|1|\N|\N
+2024|FONTIBON|1985|1|\N|\N
+2024|PUENTE ARANDA|1985|1|\N|\N
+2024|PUENTE ARANDA|2000|1|\N|\N
+2024|BARRIOS UNIDOS|1960|4|\N|\N
+2024|CHAPINERO|1930|8|\N|\N
+2024|CHAPINERO|1925|1|\N|\N
+2024|SUBA|1920|1|\N|\N
+2024|BARRIOS UNIDOS|1935|3|\N|\N
+2024|BARRIOS UNIDOS|1940|3|\N|\N
+2024|ENGATIVA|1920|1|\N|\N
+2024|ENGATIVA|1915|1|\N|\N
+2024|CHAPINERO|1920|1|\N|\N
+2024|CHAPINERO|2010|11|\N|\N
+2024|BARRIOS UNIDOS|2010|1|\N|\N
+2024|SAN CRISTOBAL|1980|2|\N|\N
+2024|CHAPINERO|1980|23|\N|\N
+2024|BARRIOS UNIDOS|1975|8|\N|\N
+2024|BARRIOS UNIDOS|1965|6|\N|\N
+2024|USME|1965|1|\N|\N
+2024|BARRIOS UNIDOS|2020|4|\N|\N
+2023|CANDELARIA|1995|14|\N|\N
+2023|CANDELARIA|2010|13|\N|\N
+2023|CANDELARIA|1960|25|\N|\N
+2023|CANDELARIA|1930|6|\N|\N
+2023|CANDELARIA|1940|7|\N|\N
+2023|CANDELARIA|1990|17|\N|\N
+2023|CANDELARIA|1955|23|\N|\N
+2023|CANDELARIA|2015|11|\N|\N
+2023|CANDELARIA|1945|20|\N|\N
+2023|CANDELARIA|1980|11|\N|\N
+2023|CANDELARIA|1985|11|\N|\N
+2023|CANDELARIA|1970|13|\N|\N
+2023|CANDELARIA|1975|11|\N|\N
+2023|CANDELARIA|1950|24|\N|\N
+2023|CANDELARIA|2005|11|\N|\N
+2023|CANDELARIA|1965|12|\N|\N
+2023|CANDELARIA|2020|7|\N|\N
+2023|CANDELARIA|1925|2|\N|\N
+2023|CANDELARIA|1935|7|\N|\N
+\N|La Candelaria|\N|781|\N|\N
+\N|San Cristóbal|\N|26660|\N|\N
+\N|Sumapaz|\N|1315|\N|\N
+\N|Santa Fe|\N|6687|\N|\N
+\N|Rafael Uribe Uribe|\N|11748|\N|\N
+\N|Fontibón|\N|6339|\N|\N
+\N|Kennedy|\N|27848|\N|\N
+\N|Bosa|\N|22398|\N|\N
+\N|Puente Aranda|\N|2288|\N|\N
+\N|Barrios Unidos|\N|1904|\N|\N
+\N|Chapinero|\N|1425|\N|\N
+\N|Engativá|\N|9930|\N|\N
+\N|Suba|\N|33510|\N|\N
+\N|Usaquén|\N|10868|\N|\N
+\N|Ciudad Bolivar|\N|39176|\N|\N
+\N|Usme|\N|22543|\N|\N
+\N|Tunjuelito|\N|10618|\N|\N
+\N|Los Mártires|\N|4232|\N|\N
+\N|Antonio Nariño|\N|2202|\N|\N
+\N|Teusaquillo|\N|771|\N|\N
